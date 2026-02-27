@@ -1,4 +1,4 @@
-Hey there 👋<br>
+## Hey there 👋
 I'm [Ermiyas](https://www.linkedin.com/in/ermiyasmeng/), a Junior Mechanical engineer based in Ethiopia.<br>
 who's passionate about the world of Robotics and Data science. I'm excited to combine my engineering background with programming and AI to create innovative solutions. I'm always eager to learn new skills and collaborate on exciting projects.<br><br> I’m working on robotics projects that combine mechanical engineering principles with programming and AI to create innovative solutions.<br> I’m looking to collaborate on data science projects to expand my skill set and work with like-minded individuals.<br> I’m looking for help with advanced robotics techniques and computer vision applications in robotics.<br> I’m currently learning Python and Microcontroller programming to dive deeper into data science and robotics.<br>💬 Ask me about microcontroller programming, mechanical design, or robotics fundamentals.<br>
 
