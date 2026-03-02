@@ -1,4 +1,4 @@
-### Hey there <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated waving hand emoji" width="20" height="20">
+### Hey there<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated waving hand emoji" width="25" height="25">
 I'm [Ermiyas](https://www.linkedin.com/in/ermiyasmeng/), a Junior Mechanical engineer based in Ethiopia.<br><br>
 I design and build whatever I can imagine. <br><br>
 If it moves, actuates, or responds to the world around it, I want to understand it and build it myself.<br><br>
