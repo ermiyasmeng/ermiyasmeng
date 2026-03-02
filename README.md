@@ -7,7 +7,7 @@ My main stack spans both hardware and software: __Python__, __C/C++__, __ROS/ROS
 I'm currently building a [Sip and Puff Assistive Device](https://github.com/ermiyasmeng/Sip-and-Puff-Assistive-Device). One of the projects I'm most proud of, because it sits right at the intersection of engineering and real human impact.<br>
 
 I'm early in my journey, but I'm building in public, contributing to open source, and looking to connect with the global robotics community. If you're working on something interesting, let's talk.<br>
-#### Fun facts:
+### Fun facts:
 • I have two dogs.<br>
 • I am a tea person.<br>
 • Vinland Saga is my favorite anime.<br>
