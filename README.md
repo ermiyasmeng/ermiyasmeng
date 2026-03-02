@@ -1,11 +1,12 @@
 ## Hey there 👋
 I'm [Ermiyas](https://www.linkedin.com/in/ermiyasmeng/), a Junior Mechanical engineer based in Ethiopia.<br><br>
 I design and build whatever I can imagine. <br><br>
-If an idea pops into my head, chances are that I'll build it. <br><br>
+If an idea pops into my head, chances are that I'll build it and ship it.<br><br>
+If it moves, actuates, or responds to the world around it, I want to understand it and build it myself.<br><br>
 My main stack spans both hardware and software: Python, C/C++, ROS/ROS2, Arduino, and CAD tools like SolidWorks and Fusion 360. I'm as comfortable sketching a mechanism as I am writing the code to control it. <br><br>
 
-who's passionate about the world of Robotics and Data science. I'm excited to combine my engineering background with programming and AI to create innovative solutions. I'm always eager to learn new skills and collaborate on exciting projects.<br><br> I’m working on robotics projects that combine mechanical engineering principles with programming and AI to create innovative solutions.<br> I’m looking to collaborate on data science projects to expand my skill set and work with like-minded individuals.<br> I’m looking for help with advanced robotics techniques and computer vision applications in robotics.<br> I’m currently learning Python and Microcontroller programming to dive deeper into data science and robotics.<br>💬 Ask me about microcontroller programming, mechanical design, or robotics fundamentals.<br>
+I'm currently building a [sip-and-puff assistive device](https://github.com/ermiyasmeng/Sip-and-Puff-Assistive-Device). One of the projects I'm most proud of, because it sits right at the intersection of engineering and real human impact.<br><br>
 
+I'm early in my journey, but I'm building in public, contributing to open source, and looking to connect with the global robotics community. If you're working on something interesting, let's talk.<br><br>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) 
+## Fun facts:
